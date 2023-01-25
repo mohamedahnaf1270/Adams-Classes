@@ -10,9 +10,9 @@
     </head>
     <body> 
         <?php include "NavBar.php" ?>
-        <?php include "html.php" ?>
-        <?php include "css.php" ?>
-        <?php include "php.php" ?>
+        <?php include "/html.php" ?>
+        <?php include "/css.php" ?>
+        <?php include "/php.php" ?>
         <div class=" container pb-5">
             
         </div>
